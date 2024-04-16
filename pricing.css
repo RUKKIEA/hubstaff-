@@ -1,0 +1,162 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+/* nav styling */
+nav .nav-link, nav button{
+ font-size: 16px;
+ font-weight: 700;
+ line-height: 20px;
+}
+.dropdown-menu ul li{
+ list-style-type: none;
+ 
+}
+/* .dropdown-menu ul{
+ margin: 0;
+ padding: 0;
+} */
+.dropdown-menu p{
+ font-size:14px;
+ font-weight:400;
+ line-height:24px;
+ color:rgb(99, 107, 131) ;
+}
+.navbar .transit:hover h6{
+ color: #294dff;
+}
+.navbar .transit:hover .bi-arrow-right{
+ transform: translateX(10px);
+ color: blue;
+}
+
+h1{
+ font-size: 62px !important; 
+ font-weight:400 !important;
+ line-height:65px !important;
+}
+
+h2{
+ font-size: 46px !important; 
+ font-weight:400 !important;
+ line-height: 48px !important;
+ /* color: rgb(37, 48, 83); */
+}
+h3{
+ font-size: 34px !important; 
+ font-weight:400 !important;
+ line-height: 32px !important;
+ /* color: rgb(37, 48, 83); */
+}
+h4{
+ font-size: 24px;
+ font-weight:400;
+ line-height: 34px;
+ /* color: rgb(37, 48, 83); */
+}
+
+.hero{
+ padding: 130px 0;
+ background-color: #294dff;
+}
+.hero p{
+ font-size: 24px;
+ font-weight:400;
+ line-height: 32px;
+}
+.nav-tab-sec{
+ margin: 100px 0;
+}
+.card h4{
+ font-size: 24px;
+ font-weight: 400;
+ line-height: 24px;
+}
+.card .bolder{
+ font-size: 50px;
+ font-weight: 400;
+ line-height: 50px;
+}
+.card h5{
+ font-size: 16px;
+ font-weight: 700;
+ line-height: 16px;
+}
+.card-height {
+height: 1150px;
+}
+.included{
+background-color: #ffe7aa;
+font-size: 8px; 
+font-weight: 700; 
+line-height: 8px;}
+
+.add-on .card{
+ height: 490px;
+}
+.card-body{
+ background-color: #f2f8ff;
+}
+.card-header{
+ background-color: #ffffff !important;
+}
+.card p{
+ font-size: 14px;
+ font-weight: 400;
+ line-height: 25px;
+
+}
+.card-title img{
+ width: 50px;
+}
+.accordion-item h4:hover{
+color: #294dff;
+}
+.accordion-body p{
+ color: grey;
+ font-size: 18px;
+ font-weight: 400;
+ line-height: 32px;
+}
+
+
+
+
+
+.try{
+ background-color: #294dff;
+}
+.try button{
+ background-color: #253053;
+ color: white;
+}
+.try button:hover{
+ background-color: blue;
+ color: white;
+}
+.try div{
+ padding: 100px 0;
+}
+
+
+
+
+
+
+/* footer styling */
+
+.social-media a{
+ color: white;
+}
+footer .nav-item a{
+ color: white;
+}
+footer .nav-item a:hover{
+ color: white;
+ text-decoration: underline;
+}
+.lower-footer a, .lower-footer p{
+ color: white;
+ text-decoration: none;
+}

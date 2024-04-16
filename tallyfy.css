@@ -1,0 +1,128 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+/* nav styling */
+nav .nav-link, nav button{
+ font-size: 16px;
+ font-weight: 700;
+ line-height: 20px;
+}
+.dropdown-menu ul li{
+ list-style-type: none;
+ 
+}
+/* .dropdown-menu ul{
+ margin: 0;
+ padding: 0;
+} */
+.dropdown-menu p{
+ font-size:14px;
+ font-weight:400;
+ line-height:24px;
+ color:rgb(99, 107, 131) ;
+}
+.navbar .transit:hover h6{
+ color: #294dff;
+}
+.navbar .transit:hover .bi-arrow-right{
+ transform: translateX(10px);
+ color: blue;
+}
+
+/* body section */
+
+.hero{
+ padding: 100px 0;
+ background-color: #f2f8ff;
+}
+
+h1{
+ font-size: 62px !important; 
+ font-weight:400 !important;
+ line-height: 65px !important;
+ color: rgb(37, 48, 83);
+}
+h2{
+ font-size: 46px !important; 
+ font-weight:400 !important;
+ line-height: 48px !important;
+}
+h3{
+ font-size: 46px !important; 
+ font-weight:400 !important;
+ line-height: 42px !important;
+ color: rgb(37, 48, 83);
+}
+h4{
+ font-size: 30px;
+ font-weight:700;
+ line-height: 42px;
+ color: rgb(37, 48, 83);
+}
+p{
+ font-size: 18px;
+ font-weight:400;
+ line-height: 32px;
+ color: rgb(99, 107, 131);
+}
+.small-p{
+ font-size: 16px;
+ font-weight:400;
+ line-height: 28px;
+ color: rgb(99, 107, 131);
+}
+.mint-g-div{
+ background-color: #f2f8ff;
+ margin: 100px 0;
+}
+.mint-g-div h3{
+ color: #253053;
+}
+.royal-b-div{
+ background-color: #294dff;
+ padding: 100px 0 70px;
+}
+.mint-g-div button, .royal-b-div button{
+ background-color: #253053;
+ color: white;
+}
+.mint-g-div button:hover, .royal-b-div button:hover{
+ background-color: blue;
+ color: white;
+}
+.sticky-div{
+ position: sticky !important;
+ top: 90px !important;
+}
+.sticky-div .list-group{
+ height: 50px; overflow-y: scroll;
+}
+
+
+
+.video{
+ margin: 100px 200px 120px;
+}
+.video-container{
+ background-image: url(./tallyfy/tallyfyvid.jpg);
+}
+
+
+/* footer styling */
+
+.social-media a{
+ color: white;
+}
+footer .nav-item a{
+ color: white;
+}
+footer .nav-item a:hover{
+ color: white;
+ text-decoration: underline;
+}
+.lower-footer a, .lower-footer p{
+ color: white;
+ text-decoration: none;
+}

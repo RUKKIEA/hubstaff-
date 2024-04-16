@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>checkmark</title>
+    <g id="checkmark" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M10,20 C15.5228,20 20,15.5228 20,10 C20,4.47715 15.5228,0 10,0 C4.47715,0 0,4.47715 0,10 C0,15.5228 4.47715,20 10,20 Z" id="Path" fill="#294DFF" fill-rule="nonzero"></path>
+        <polygon id="Path" stroke="#FFFFFF" stroke-width="0.833333" fill="#FFFFFF" fill-rule="nonzero" points="12.9997 6.53888 14.1468 7.74213 8.69484 13.4609 5.85254 10.4794 6.99964 9.27613 8.69484 11.0544"></polygon>
+    </g>
+</svg>
