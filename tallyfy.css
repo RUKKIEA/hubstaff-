@@ -11,12 +11,7 @@ nav .nav-link, nav button{
 }
 .dropdown-menu ul li{
  list-style-type: none;
- 
 }
-/* .dropdown-menu ul{
- margin: 0;
- padding: 0;
-} */
 .dropdown-menu p{
  font-size:14px;
  font-weight:400;
@@ -37,7 +32,6 @@ nav .nav-link, nav button{
  padding: 100px 0;
  background-color: #f2f8ff;
 }
-
 h1{
  font-size: 62px !important; 
  font-weight:400 !important;
@@ -99,19 +93,13 @@ p{
 .sticky-div .list-group{
  height: 50px; overflow-y: scroll;
 }
-
-
-
 .video{
  margin: 100px 200px 120px;
 }
 .video-container{
  background-image: url(./tallyfy/tallyfyvid.jpg);
 }
-
-
 /* footer styling */
-
 .social-media a{
  color: white;
 }
